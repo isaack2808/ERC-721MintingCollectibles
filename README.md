@@ -28,7 +28,14 @@ Add Infura key and seed phrase to metamask account to .env folder
 
 add wallet address to truffle.js
 
+cd contracts
+
+edit ArtistsTradingCard.sol and add your own google storage api (in JSON format) and rename to this file to what you want your public contract to be called.
+
 cd ..
+
+cd ..
+
 
 in mintcards directory
 
