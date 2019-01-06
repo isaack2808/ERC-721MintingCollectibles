@@ -16,7 +16,7 @@ Can be used to reference documentation as long as their is an api involved.
 
 Instructions:
 
-Clone api.
+Clone this repository.
 
 Add Infura key and seed phrase to metamask account to .env folder
 
