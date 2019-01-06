@@ -20,9 +20,11 @@ Instructions:
 
 Clone this repository.
 
-Add Infura key and seed phrase to metamask account to .env folder
+cd mintcards
 
 cd truffle
+
+Add Infura key and seed phrase to metamask account to .env folder
 
 add wallet address to truffle.js
 
@@ -35,6 +37,8 @@ npm install --save puppeteer
 cd Contract
 
 rm ArtistsTradingCard.json
+
+cd ..
 
 cd Truffle
 
@@ -54,7 +58,7 @@ Go to local host.  Make sure your signed into metamask account and it was same a
 
 Start minting.
 
-Notes, to do:  Create interface for viewing minted items.  Artiststradingcard.com currently uses Open Sea to view the art cards they've minted with this code.
+Notes, to do:  Create interface for viewing minted items.  Artiststradingcard.com currently uses Open Sea to view the art cards they've minted with this code.  To view their cards go to :  https://opensea.io/category/artiststradingcard
 
 Done by Isaac Kenley 2019 ikenley1977@gmail.com
 
