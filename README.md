@@ -12,7 +12,9 @@ Metamask Ethereum wallet
 
 This has been used for Artiststradingcard.com to mint collectible images and information of art onto the blockchain.
 
-Can be used to reference documentation as long as their is an api involved.
+Can be used to reference documentation such as deeds to a house, etc. or anything of fixed value as long as their is an api involved.
+
+Ownership is recorded onto the blockchain and transferable.
 
 Instructions:
 
