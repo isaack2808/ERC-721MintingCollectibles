@@ -40,9 +40,13 @@ rm -r build     (these last two are the artifacts that you get when you successf
 
 inside truffle directory type:
 
-truffle migrate --network rinkeby
+truffle migrate --network main
 
-If successful you will get a contract address.  Put that into index.js inside mintcard directory.  Make sure your server is started.  
+If successful you will get a contract address.  
+
+Put the contract address into https://etherscan.io/  It should show up there on the ethereum network for you to interact with.
+
+Also put the contract address into index.js inside mintcard directory.  Make sure your server is started.  
 
 Go to local host.  Make sure your signed into metamask account and it was same account to deploy contrract.
 
