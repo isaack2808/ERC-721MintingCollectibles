@@ -28,6 +28,8 @@ cd ..
 
 in mintcards directory
 
+npm install --save puppeteer
+
 cd Contract
 
 rm ArtistsTradingCard.json
@@ -47,3 +49,5 @@ Go to local host.  Make sure your signed into metamask account and it was same a
 Start minting.
 
 Done by Isaac Kenley 2019 ikenley1977@gmail.com
+
+donations in eth:  0x80243DDA8007fa069a0Ca4ABf44A6F522A7774Ef
