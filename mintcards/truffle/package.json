@@ -1,0 +1,15 @@
+{
+	"private": true,
+	"dependencies": {
+		"dotenv": "^6.2.0",
+		"mz": "^2.7.0",
+		"truffle-hdwallet-provider": "^1.0.1",
+		"zeppelin-solidity": "1.9.0"
+	},
+	"devDependencies": {
+		"truffle": "^4.1.15"
+	},
+	"scripts": {
+		"deploy": "truffle deploy"
+	}
+}
