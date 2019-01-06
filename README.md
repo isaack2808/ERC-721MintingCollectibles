@@ -54,6 +54,8 @@ Go to local host.  Make sure your signed into metamask account and it was same a
 
 Start minting.
 
+Notes, to do:  Create interface for viewing minted items.  Artiststradingcard.com currently uses Open Sea to view the art cards they've minted with this code.
+
 Done by Isaac Kenley 2019 ikenley1977@gmail.com
 
 donations in eth:  0x80243DDA8007fa069a0Ca4ABf44A6F522A7774Ef
