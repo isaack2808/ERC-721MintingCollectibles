@@ -36,7 +36,7 @@ rm ArtistsTradingCard.json
 
 cd Truffle
 
-rm -r build     (these last two art the artifacts that you get when you successfully deploy.  I included them so that you know what they should look like)...
+rm -r build     (these last two are the artifacts that you get when you successfully deploy.  I included them so that you know what they should look like)...
 
 inside truffle directory type:
 
